@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Tingrui Zhang
 
-<!--
-**tingrui-zhang/tingrui-zhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an M.Sc. student in Electrical and Computer Engineering at McGill University. My work focuses on intelligent beamforming for full-duplex massive MIMO systems, with interests in wireless communications, signal processing, and machine learning.
 
-Here are some ideas to get you started:
+## Research interests
+- Wireless communications
+- Beamforming and antenna arrays
+- Full-duplex massive MIMO
+- Signal processing
+- Machine learning and reinforcement learning for communications
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technical skills
+- Python
+- MATLAB
+- PyTorch
+- Machine Learning
+- Signal Processing
+
+## Featured projects
+- Plant disease detection using lightweight vision transformers
+- Beamforming and wireless communication research tools
+- Machine learning and data analysis projects
+
+## Links
+- LinkedIn: [your LinkedIn link]
+- ORCID: [your ORCID link]
