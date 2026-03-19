@@ -22,5 +22,5 @@ I am an M.Sc. student in Electrical and Computer Engineering at McGill Universit
 - Machine learning and data analysis projects
 
 ## Links
-- LinkedIn: [your LinkedIn link]
-- ORCID: [your ORCID link]
+- LinkedIn: https://www.linkedin.com/in/tingrui-zhang-618676284/
+- ORCID: https://orcid.org/my-orcid?orcid=0009-0007-0966-1357
